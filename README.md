@@ -9,4 +9,4 @@ Hasta ahora, tener un percance con el auto implicaba llamar a la aseguradora, es
 
 
 # ¿Cómo funciona Grab?
-Grab es muy sencillo de usar. Simplemente iniciás sesión con tu identificador de San Cristóbal Seguros, seleccionás el problema que tuviste, y los conductores de la zona son automáticamente informados de tu situación. Una vez que un conductor acepte tu pedido de remolque, te llegarán todos los datos de la persona responsable del acarreo, así como su posición en tiempo real.
+Grab es muy sencillo de usar. Simplemente iniciás sesión con tu identificador de San Cristóbal Seguros, seleccionás el problema que tuviste, y los auxiliares de la zona son automáticamente informados de tu situación. Una vez que un auxiliar acepte tu pedido de remolque, te llegarán todos los datos de la persona responsable del acarreo, así como su posición en tiempo real.
